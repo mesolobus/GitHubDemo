@@ -3,6 +3,7 @@
 
 # Make changes to the line below to change the printed message
 #my_favorite_food = 'Sushi'
+# Update from L.Floyd
 my_favorite_food = 'Salad'
 
 # Print out my_favorite_food to the console
